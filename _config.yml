@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Nan的小站
-subtitle: Summary of Nan
-description:
-author: 
+title: Nan
+subtitle: Private plot of Nan
+description: Summary of Nan
+author: Nan
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -19,8 +19,8 @@ baseurl: ""
 permalink: pretty
 
 # Pagination
-paginate: 10
-#paginate_path: "/page:num/"
+paginate: 15
+paginate_path: "/page:num/"
 #archive:
   #paginate: 10
   #paginate_path: "/page:num/"
@@ -256,8 +256,8 @@ toc:
 
 sidebar:
   # Sidebar Position, available value: left | right
-  position: left
-  #position: right
+  #position: left
+  position: right
 
   # Sidebar Display, available value:
   #  - post    expand on posts automatically. Default.
